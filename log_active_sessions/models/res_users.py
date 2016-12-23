@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
-from openerp import api, models
-from openerp import http
+from odoo import api, models
+from odoo import http
 
-from openerp.http import root
-from openerp.http import request
+from odoo.http import root
+from odoo.http import request
 
 import os.path
 from glob import glob

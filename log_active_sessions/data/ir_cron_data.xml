@@ -1,4 +1,4 @@
-<openerp>
+<odoo>
     <data noupdate="1">
         <record id="ir_cron_log_active_sessions" model="ir.cron">
             <field name="name">Log Active Sessions</field>
@@ -12,4 +12,4 @@
             <field eval="'()'" name="args"/>
         </record>
    </data>
-</openerp>
+</odoo>

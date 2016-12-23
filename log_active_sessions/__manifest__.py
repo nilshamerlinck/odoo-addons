@@ -5,7 +5,7 @@
     'author': "Nils Hamerlinck, Odoo Community Association (OCA)",
     'maintainer': 'Odoo Community Association (OCA)',
     'category': 'Tools',
-    'version': '9.0.0.1.0',
+    'version': '10.0.0.1.0',
     'license': 'AGPL-3',
 
     'depends': [
